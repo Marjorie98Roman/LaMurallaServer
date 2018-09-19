@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "175350938270",
+    "firebase_url": "https://lamuralladata.firebaseio.com",
+    "project_id": "lamuralladata",
+    "storage_bucket": "lamuralladata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175350938270:android:12c8ab55c1d861fa",
+        "android_client_info": {
+          "package_name": "com.admin.marjo.lamuralla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175350938270-aem78nj0beeei4ofkgg9hrf30enc7937.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.marjo.lamuralla",
+            "certificate_hash": "9928c85234eafc5cfa32125cf11e6d86b320f097"
+          }
+        },
+        {
+          "client_id": "175350938270-qoillu59un9ivim56ureekkrgfo6ku67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXOU1-VNf1SXeljU3Y88BE8FL0LpVrcrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175350938270-qoillu59un9ivim56ureekkrgfo6ku67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175350938270:android:201c2393e0a4defe",
+        "android_client_info": {
+          "package_name": "com.admin.marjo.lamurallaserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175350938270-ofuif6fkkhvr48o7naf0bqhdhaf7tpsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.marjo.lamurallaserver",
+            "certificate_hash": "9928c85234eafc5cfa32125cf11e6d86b320f097"
+          }
+        },
+        {
+          "client_id": "175350938270-qoillu59un9ivim56ureekkrgfo6ku67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXOU1-VNf1SXeljU3Y88BE8FL0LpVrcrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175350938270-qoillu59un9ivim56ureekkrgfo6ku67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

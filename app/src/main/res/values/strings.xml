@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LaMurallaServer</string>
+    <string name="slogan">We transport products to customers as quickly as possible</string>
+    <string name="sign_up" />
+    <string name="sign_in" />
+    <string name="phone_number" />
+    <string name="_0988123344" />
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

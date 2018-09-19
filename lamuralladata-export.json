@@ -1,0 +1,112 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://recetasdecomidaperuana.org/wp-content/uploads/2010/03/causa-rellena.jpg",
+      "Name" : "ENTRADAS CRIOLLAS"
+    },
+    "02" : {
+      "Image" : "http://www.midiaturis.com.br/wp-content/plugins/RSSPoster_PRO/cache/1b4ce_Lomo-Saltado-Shutterstock.jpg",
+      "Name" : "PLATOS DE FONDO"
+    },
+    "03" : {
+      "Image" : "http://www.cocineroperuano.com/images/stories/chicha-morada-cp.jpg",
+      "Name" : "BEBIDAS"
+    }
+  },
+  "Food" : {
+    "01" : {
+      "Description" : "Grandes anticuchos a la parrilla con su rocotito anticuchero.",
+      "Discount" : "0",
+      "Image" : "http://www.quecomemoshoy.com.py/wp-content/uploads/2016/11/anticuchos-1200x715.jpg",
+      "MenuID" : "01",
+      "Name" : "ANTICUCHOS",
+      "Price" : "16"
+    },
+    "02" : {
+      "Description" : "Esparragos, tomate, palta, pepinillo, palta, jamon, huevo, pollo, aceituna, choclo, brocoli.",
+      "Discount" : "0",
+      "Image" : "https://s3.amazonaws.com/menuperu.pe/media/receta/Ensalada%20de%20pavo%20y%20huevo-2811.jpeg",
+      "MenuID" : "01",
+      "Name" : "ENSALADA A LA MURALLA",
+      "Price" : "19"
+    },
+    "03" : {
+      "Description" : "Papa huamantanga, rellena con pollo, palta y mayonesa.",
+      "Discount" : "0",
+      "Image" : "https://comidasperuanas.net/wp-content/uploads/2015/05/img_causa_limena_31268_600.jpg",
+      "MenuID" : "01",
+      "Name" : "CAUSA DE POLLO",
+      "Price" : "16"
+    },
+    "04" : {
+      "Description" : "Pollo en trozos en suave crema de aji, con su arrocito y papa amarilla sancochada.",
+      "Discount" : "0",
+      "Image" : "https://i1.wp.com/decomidaperuana.com/wp-content/uploads/2017/09/aji-de-gallina-receta.png?ssl=1",
+      "MenuID" : "02",
+      "Name" : "AJI DE GALLINA",
+      "Price" : "23"
+    },
+    "05" : {
+      "Description" : "Macerado con horas de anticipacion y cocinado al estilo del norte con loche y cerveza negra.",
+      "Discount" : "0",
+      "Image" : "https://images-gmi-pmc.edge-generalmills.com/8b79836e-e3b4-4099-bf3b-79a21257b759.jpg",
+      "MenuID" : "02",
+      "Name" : "ARROZ CON PATO",
+      "Price" : "33"
+    },
+    "06" : {
+      "Description" : "Lomo en trozos, cebolla y tomate flameados con el secreto de la casa, servido con arroz y crocantes papas fritas.",
+      "Discount" : "0",
+      "Image" : "https://cde.peru.com//ima/0/0/7/7/2/772033/611x458/lomo-saltado.jpg",
+      "MenuID" : "02",
+      "Name" : "LOMO SALTADO DE LA CASA - EL MEJOR ELEGIDO POR GASTON ACURIO",
+      "Price" : "37"
+    },
+    "07" : {
+      "Description" : "Lomo en corte abierto cocinado a la plancha y servido con tocino, platano, huevo y papas fritas.",
+      "Discount" : "0",
+      "Image" : "https://lh3.googleusercontent.com/-q4Bkymmm4CI/V_l5GG8pVOI/AAAAAAAAAFA/zX6n7XgO0IE4ZGWzPYsRIMZreoRd1H6zQCJoC/w424-h318-n/super%2Bchicken%2Bmarketing%2B10%2Bbistec%2Ba%2Blo%2Bpobre.jpg",
+      "MenuID" : "02",
+      "Name" : "FILETE DE LOMO A LO POBRE",
+      "Price" : "38"
+    },
+    "08" : {
+      "Description" : "",
+      "Discount" : "0",
+      "Image" : "https://logistica2014muialpcs.files.wordpress.com/2014/03/inca-kola1.jpg?w=440",
+      "MenuID" : "03",
+      "Name" : "AGUA Y GASEOSAS EMBOTELLADAS",
+      "Price" : "5"
+    },
+    "09" : {
+      "Description" : "",
+      "Discount" : "0",
+      "Image" : "https://cdn.viajala.com/img/blog/5-bebidas-peru/chicha-morada.jpg",
+      "MenuID" : "03",
+      "Name" : "MARACUYA, LIMONADA, CHICHA MORADA O CAMU CAMU",
+      "Price" : "5"
+    }
+  },
+  "User" : {
+    "0988123344" : {
+      "Name" : "Eddydn",
+      "Password" : "1234",
+      "IsStaff":"false"
+    },
+    "0988123355" : {
+      "Name" : "EddyLEe",
+      "Password" : "1234",
+      "IsStaff":"false"
+    },
+    "0988123388" : {
+      "Name" : "Tom Cruise",
+      "Password" : "1234",
+      "IsStaff":"false"
+    },
+    "0912" : {
+      "Name" : "John Wick",
+      "Password" : "1234",
+      "IsStaff":"true"
+    }
+  }
+}
